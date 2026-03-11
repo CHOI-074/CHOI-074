@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=YOUR_ID)
+![](https://komarev.com/ghpvc/?username=CHOI-074)
 <div align="center">
 
 # 안녕하세요, 최창연입니다 👋
