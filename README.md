@@ -1,5 +1,6 @@
-<div align="center">
 ![](https://komarev.com/ghpvc/?username=YOUR_ID)
+<div align="center">
+
 # 안녕하세요, 최창연입니다 👋
 
 ### Backend · Data · AI에 관심이 많은 개발자  
