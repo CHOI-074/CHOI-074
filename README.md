@@ -28,8 +28,28 @@
 
 
 ---
+## 📌 Projects
 
-## 🛠 Tech Stack
+### Main Projects
+**FINZIE** · MZ세대 타겟 AI 금융 플랫폼  
+`Spring Boot` `Vue.js` `MySQL` `Python`
+
+**슬기로운 은퇴생활** · 수도권-지방 정착 매칭 서비스  
+`Spring Boot` `Vue.js` `MySQL`
+
+**지하철 역 최적 입지 선정** · 위치 데이터 기반 입지 알고리즘  
+`Python` `Pandas` `GIS`
+
+**AI 추천 시스템 연구** · 사용자 행동 데이터 기반 개인화 추천  
+`Python` `SQL` `Scikit-learn`
+
+### Toy Projects
+**[프로젝트명]** · 한 줄 설명 (진행중)  
+`기술스택`
+
+**[프로젝트명]** · 한 줄 설명  
+`기술스택`
+
 
 ## 🛠 Tech Stack
 
