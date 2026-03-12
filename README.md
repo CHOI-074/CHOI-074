@@ -30,6 +30,10 @@
 ---
 ## 📌 Projects
 
+<table>
+<tr>
+<td width="50%">
+
 **FINZIE**  
 MZ세대 타겟 AI 기반 금융 플랫폼
 
@@ -45,6 +49,9 @@ MZ세대 타겟 AI 기반 금융 플랫폼
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
+</td>
+<td width="50%">
+
 **지하철 역 최적 입지 선정**  
 위치 데이터 기반 최적 입지 알고리즘
 
@@ -58,6 +65,10 @@ MZ세대 타겟 AI 기반 금융 플랫폼
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
