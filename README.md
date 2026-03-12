@@ -82,12 +82,12 @@
 
 <table>
 <tr>
-<td width="70%">
+<td width="60%">
 
 **FINZIE** | MZ세대 타겟 AI 기반 금융 플랫폼
 
 </td>
-<td width="30%">
+<td width="40%">
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
@@ -98,12 +98,12 @@
 </tr>
 
 <tr>
-<td width="70%">
+<td width="60%">
 
 **슬기로운 은퇴생활** | 수도권-지방 정착 매칭 서비스
 
 </td>
-<td width="30%">
+<td width="40%">
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
@@ -113,12 +113,12 @@
 </tr>
 
 <tr>
-<td width="70%">
+<td width="60%">
 
 **지하철 역 최적 입지 선정** | 위치 데이터 기반 최적 입지 알고리즘
 
 </td>
-<td width="30%">
+<td width="40%">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -128,12 +128,12 @@
 </tr>
 
 <tr>
-<td width="70%">
+<td width="60%">
 
 **AI 추천 시스템 연구** *(진행중)* | 개인화 추천 로직 실험
 
 </td>
-<td width="30%">
+<td width="40%">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
