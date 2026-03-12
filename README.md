@@ -104,21 +104,11 @@
 
 ---
 
-## 🎯 Goal
-
-데이터를 이해하고,  
-백엔드 로직으로 구현하며,  
-사용자에게 실제로 도움이 되는 기능을 만드는 개발자가 되고 싶습니다.
-
-**"문제 정의부터 해결까지"** 전체 프로세스를 설계하고,  
-기록하고 개선하면서 끝까지 구현해내는 것을 중요하게 생각합니다.
-
----
 
 ## 📫 Contact
 
 - Email: `porlio704@naver.com`
-- GitHub: [github.com/YOUR_GITHUB_USERNAME](https://github.com/CHOI-074)
+- GitHub: [github.com/CHOI-074](https://github.com/CHOI-074)
 
 ---
 
