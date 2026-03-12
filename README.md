@@ -164,9 +164,8 @@
 
 ## 📫 Contact
 
-- Email: `your_email@example.com`
-- GitHub: [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- Email: `porlio704@naver.com`
+- GitHub: [github.com/YOUR_GITHUB_USERNAME](https://github.com/CHOI-074)
 
 ---
 
