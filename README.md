@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=CHOI-074)
 <div align="center">
 
-# 안녕하세요, 최창연입니다 👋
 
 ### Backend · Data · AI
 데이터를 기반으로 문제를 정의하고,  
