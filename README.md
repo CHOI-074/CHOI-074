@@ -11,7 +11,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/CHOI-074?style=for-the-badge)](https://github.com/CHOI-074)
 [![GitHub stars](https://img.shields.io/github/stars/CHOI-074?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/CHOI-074)
 [![Gmail Badge](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuffhrgha704@naver.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://blog.naver.com/engiguru))
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://blog.naver.com/engiguru)
 
 </div>
 
