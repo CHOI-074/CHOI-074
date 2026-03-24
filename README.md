@@ -85,7 +85,7 @@
 <tr>
 <td width="60%">
 
-**FINZIE**
+**FINZ**
 >MZ세대 타겟 AI 기반 금융 플랫폼
 
 </td>
